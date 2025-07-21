@@ -16,7 +16,7 @@ spec:
     spec:
         containers:
           - name: snakegame
-            image: shoaibk7/myimg:latest
+            image: shruti201/myimg:latest
             ports:
               - containerPort: 80
 ---
