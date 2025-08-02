@@ -10,10 +10,10 @@ Open `index.html` directly in a browser, or deploy using Docker or Kubernetes fo
 
 snake_game/
 │
-├── index.html # Main HTML file with embedded CSS and JS
-├── Dockerfile # Docker configuration for containerizing the game
-├── deployment.yml # Kubernetes deployment configuration
-└── README.md # Project documentation
+├── index.html  
+├── Dockerfile 
+├── deployment.yml 
+└── README.md 
 ## 🚀 Getting Started
 
 You can run this project in three ways:
