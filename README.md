@@ -39,7 +39,7 @@ docker run -d -p 8080:80 snake-game
 Open your browser and visit: http://localhost:8080
 
 3. Deploy on Kubernetes
-Make sure you have a Kubernetes cluster running (e.g., Minikube, Kind, EKS, etc.).
+Make sure you have a Kubernetes cluster running .
 
 Apply the deployment:
 
