@@ -59,6 +59,20 @@ HTML, CSS & JavaScript
 Docker
 Kubernetes
 
+
+## Output:
+
+🚀 Achieved end-to-end automation of application deployment to Kubernetes, reducing manual deployment.
+
+🎮 A fully functional Snake Game web application is accessible through a public NodePort URL.
+
+🔐 On visiting the web page, the user is prompted to enter a username to begin the game.
+
+🐍 Once the username is entered, the Snake Game interface loads and the game starts immediately.
+
+☁️ The entire infrastructure is running on Amazon EKS, with Jenkins automating every step from code push to deployment.
+
+
 📌 To-Do / Future Improvements
 
 Add game sound effects
