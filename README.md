@@ -6,6 +6,15 @@ A classic Snake game built using HTML, CSS, and JavaScript — containerized wit
 
 Open `index.html` directly in a browser, or deploy using Docker or Kubernetes for containerized environments.
 
+📸 Screenshots
+USER LOGIN
+![Snake Game Screenshot](./ss1.png)
+
+🕹 Game UI
+
+
+![Snake Game Screenshot](./ss2.png)
+
 ## 📁 Project Structure
 
 snake_game/
